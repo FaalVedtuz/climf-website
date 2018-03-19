@@ -116,7 +116,7 @@ footer {
 
 .events {
     background-color: grey;
-    background-image: url('images/CLIMF-default-bg-image.jpg');
+    background-image: url('../images/CLIMF-default-bg-image.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
