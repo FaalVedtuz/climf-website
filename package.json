@@ -1,0 +1,16 @@
+{
+    "name": "climf",
+    "description": "Basic website for CLIMF",
+    "authors": "Jayson Rondina",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js' --directory --port 7777"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.13"
+    },
+    "dependencies": {
+        "mdi": "^2.1.99"
+    }
+}
