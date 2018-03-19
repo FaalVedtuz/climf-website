@@ -103,7 +103,7 @@ footer {
     height: 100%;
     background-color: #7272FF;
     /* Photo by Dan Kiefer on Unsplash */
-    background-image: url('/../images/climf-hero-banner-2.jpg');
+    background-image: url('images/climf-hero-banner-2.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ footer {
 
 .events {
     background-color: grey;
-    background-image: url('/../images/CLIMF-default-bg-image.jpg');
+    background-image: url('images/CLIMF-default-bg-image.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
