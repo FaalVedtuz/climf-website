@@ -110,7 +110,7 @@ footer {
 }
 
 .section-content {
-    padding: 10% 0 10% 10%;
+    padding: 10% 0 10% 0;
     margin: auto;
 }
 
@@ -121,6 +121,11 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+}
+
+.events .section-content, .contact-us .section-content {
+    padding: 10% 0 10% 10%;
+    margin: auto;
 }
 
 .events h2, .events h3 {
