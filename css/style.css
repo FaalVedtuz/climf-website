@@ -100,27 +100,32 @@ footer {
 
 .hero-banner{
     width: 100%;
-    height: 100%;
+    height: 680px;
     background-color: #7272FF;
     /* Photo by Dan Kiefer on Unsplash */
-    background-image: url('./../images/climf-hero-banner-2.jpg');
+    background-image: url('../images/climf-hero-banner-2.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .section-content {
-    padding: 10% 0 10% 10%;
+    padding: 10% 0 10% 0;
     margin: auto;
 }
 
 .events {
     background-color: grey;
-    background-image: url('/images/CLIMF-default-bg-image.jpg');
+    background-image: url('../images/CLIMF-default-bg-image.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+}
+
+.events .section-content, .contact-us .section-content {
+    padding: 10% 0 10% 10%;
+    margin: auto;
 }
 
 .events h2, .events h3 {
